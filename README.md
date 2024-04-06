@@ -1,7 +1,7 @@
 # Accenture-Data-Analytics-and-Visualization-Virtual-Internship-main
 
 ## Certificate:
-[Certificate]
+[Certificate][C:\Users\JEEVA\Downloads\Accenture-Data-Analytics-and-Visualization-Virtual-Internship-main\Accenture-Data-Analytics-and-Visualization-Virtual-Internship-main\_Accenture North America_completion_certificate.pdf]
 
 ## Task - 1
 ### Project Understanding:
@@ -18,7 +18,7 @@
  >- Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
  
  #### Accenture Project Team :
- <img src = "Project Team.png">
+ <img src = "Project Team.png">[C:\Users\JEEVA\Downloads\Accenture-Data-Analytics-and-Visualization-Virtual-Internship-main\Accenture-Data-Analytics-and-Visualization-Virtual-Internship-main\Project Team.png]
  
  #### Task for Data Analyst :
 Analysis of sample data sets with visualizations to understand the popularity of different content categories.
